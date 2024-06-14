@@ -3,7 +3,7 @@
 ## I'm a passionate Systems Analysis and Development student
 
 - 🌱 I’m currently improving my frontend skills
-- ⚡ Fun fact: I love to play games
+- ⚡ Fun fact: I love anime, especially One Piece
 
 ## Social Media
 
