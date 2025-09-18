@@ -20,5 +20,5 @@
 
 <br/>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/dangosil/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dangosil&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/dangosil/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangosil&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stat)
