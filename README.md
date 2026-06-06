@@ -6,7 +6,7 @@ I have practical experience building APIs with Node.js, TypeScript, Express, Pos
 
 ## What I'm looking for
 
-I'm currently looking for opportunities as a Backend Developer or Junior Software Engineer, with a focus on REST APIs, Node.js, TypeScript, Java, databases, and software architecture.
+I'm currently looking for opportunities as a Backend Developer or Junior Software Engineer, where I can work on real-world APIs, databases, backend services, and well-structured software solutions.
 
 ## Main technologies
 
