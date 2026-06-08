@@ -29,17 +29,3 @@ I'm currently looking for opportunities as a Backend Developer or Junior Softwar
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gomes-silva-55216022b/)
-
-## Stats
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img
-        height="180"
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=dangosil&show_icons=true&theme=react&include_all_commits=true&locale=en"
-    />
-      &nbsp;&nbsp;&nbsp;&nbsp;
-    <img
-        height="180"
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dangosil&layout=compact&custom_title=Technologies&langs_count=9&theme=react"
-    />
-</div>
